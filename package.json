@@ -1,0 +1,21 @@
+{
+  "name": "duckducknews",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/streetlight/duckducknews.git"
+  },
+  "author": "Nick Weingartner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/streetlight/duckducknews/issues"
+  },
+  "dependencies": {
+    "request": "~2.51.0"
+  }
+}
