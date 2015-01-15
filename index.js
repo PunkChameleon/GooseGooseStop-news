@@ -22,11 +22,11 @@ function getStream(callback) {
             if (!_.isEqual(body, memory)) {1
                 _.each(body, function (item) {
                     if (!_.where(memory, item).length) {
-                        // twit.updateStatus([item.title, item.url].join(" "), function (err, data) {
-                        //     if (!err) {
-                        //         console.log([item.title,"has been posted"].join(" "));
-                        //     }
-                        // });
+                        twit.updateStatus([item.title, item.url].join(" "), function (err, data) {
+                            if (!err) {
+                                console.log([item.title,"has been posted"].join(" "));
+                            }
+                        });
                     }
                     
                 });
