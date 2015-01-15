@@ -11,9 +11,9 @@
     "url": "https://github.com/streetlight/duckducknews.git"
   },
   "author": "Nick Weingartner",
-  "license": "MIT",
+  "license": "Apache",
   "bugs": {
-    "url": "https://github.com/streetlight/duckducknews/issues"
+    "url": "https://github.com/streetlight/duckduckgo-news/issues"
   },
   "dependencies": {
     "request": "~2.51.0",
