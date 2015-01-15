@@ -12,6 +12,7 @@ It runs as a process, and constantly pings/watches the REST API endpoint for new
 
 ## How to run
 1. `npm install`
+2. Make sure your Twitter API keys are in the proper place in the [index](https://github.com/streetlight/duckduckgo-news/index.js) file.
 2. `node .`
 
 ## License
