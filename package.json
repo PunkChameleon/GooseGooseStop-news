@@ -18,6 +18,6 @@
   "dependencies": {
     "request": "~2.51.0",
     "underscore": "~1.7.0",
-    "twode": "git://github.com/streetlight/twode"
+    "twode": "0.0.2"
   }
 }
