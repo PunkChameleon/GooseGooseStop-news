@@ -1,4 +1,4 @@
-# duckducknews
+# duckduckgo-news
 
 ## What is this?
 Simple Node bot to gather, uppdate and generate a twitter feed based on DuckDuckGo's (pretty awesome) news feed.
